@@ -1,7 +1,7 @@
 {
   "name": "@caldwell619/durable-parse-float",
-  "version": "0.0.3",
-  "description": "Fork of durable-parse-float written in TS",
+  "version": "0.0.1",
+  "description": "Utility to parse number from flexible input sources",
   "main": "dist/index.js",
   "module": "dist/index.module.js",
   "source": "src/index.ts",
