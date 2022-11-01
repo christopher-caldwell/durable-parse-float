@@ -1,6 +1,8 @@
-# GitHub Slugger
+# Durable Parse Float
 
-Fork of durable-parse-float written in TS
+Often it's annoying to try and parse unexpected values into numbers. The data coming from business oriented spreadsheets is rarely clean, and using the standard parsing can lead to unexpected results. 
+
+This library is for getting predicable results when attempting to parse values
 
 [![NPM](https://img.shields.io/npm/v/@caldwell619/durable-parse-float.svg)](https://www.npmjs.com/package/@caldwell619/durable-parse-float) [![NPM](https://img.shields.io/bundlephobia/min/@caldwell619/durable-parse-float)](https://www.npmjs.com/package/@caldwell619/durable-parse-float) [![](https://img.shields.io/github/last-commit/christopher-caldwell/durable-parse-float)]() [![](https://img.shields.io/npm/types/typescript)]()
 
